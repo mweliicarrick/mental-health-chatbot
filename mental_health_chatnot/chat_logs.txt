@@ -1,0 +1,184 @@
+
+[2026-05-23 21:13:09.503769]
+User: i am not fine at all
+Bot: I'm here to listen. Tell me more about how you're feeling.
+
+[2026-05-23 21:13:24.889737]
+User: i just want to die
+Bot: ⚠️ I'm really concerned about how you're feeling.
+
+Please consider reaching out to a trusted person or mental health professional.
+You do not have to go through this alone.
+
+[2026-05-23 21:13:36.499111]
+User: why
+Bot: I'm here to listen. Tell me more about how you're feeling.
+
+[2026-05-23 21:13:45.805665]
+User: love
+Bot: 😊 I'm glad to hear some positivity in your message.
+Keep embracing the good moments.
+
+[2026-05-23 21:14:05.954711]
+User: love
+Bot: 😊 I'm glad to hear some positivity in your message.
+Keep embracing the good moments.
+
+[2026-05-23 21:14:21.912251]
+User: my mom
+Bot: I'm here to listen. Tell me more about how you're feeling.
+
+[2026-05-23 21:14:32.025567]
+User: amen
+Bot: I'm here to listen. Tell me more about how you're feeling.
+
+[2026-05-23 21:33:58.021601]
+User: Am just confused
+Bot: Sometimes carrying everything alone becomes heavy. What has been on your mind recently?
+
+[2026-05-23 21:34:21.123731]
+User: My girlfriend broke up with me
+Bot: I’m listening 😊 Tell me more.
+
+💡 Advice: Try getting some fresh air today.
+
+[2026-05-23 21:34:37.186534]
+User: Am sad
+Bot: I'm sorry you're going through that. What do you think has been affecting you the most lately?
+
+[2026-05-23 21:38:28.353783]
+User: HI
+Bot: I’m listening 😊 Tell me more.
+
+[2026-05-23 21:38:51.313088]
+User: I am going through alot
+Bot: I understand. What’s been on your mind recently?
+
+[2026-05-23 21:39:13.144065]
+User: am depressed
+Bot: ⚠️ I'm really concerned about what you're saying.
+
+Please reach out to someone you trust or a mental health professional.
+You matter more than you think.
+
+[2026-05-23 21:39:31.481173]
+User: Who should i reach out to?
+Bot: I understand. What’s been on your mind recently?
+
+[2026-05-23 21:41:35.610744]
+User: Am feeling bad
+Bot: That sounds emotionally exhausting. Have you been able to talk to anyone about it?
+
+[2026-05-23 21:42:00.309285]
+User: Not yet, i was willing i could talk to you
+Bot: I’m listening 😊 Tell me more.
+
+[2026-05-23 21:42:20.275820]
+User: i have been having troubles for long now
+Bot: I’m listening 😊 Tell me more.
+
+[2026-05-23 21:45:02.165329]
+User: Hi not a good day for me
+Bot: That sounds emotionally exhausting. Have you been able to talk to anyone about it?
+
+💡 Advice: You do not need to solve everything at once.
+
+[2026-05-23 21:45:21.857346]
+User: Am just thinking about the future
+Bot: That kind of situation can really stay in someone's head.
+
+[2026-05-23 21:45:43.566231]
+User: yes, and its really disturbing me
+Bot: Sometimes carrying everything alone becomes heavy. What has been on your mind recently?
+
+💡 Advice: Try getting some fresh air today.
+
+[2026-05-23 21:46:03.410783]
+User: I wanna be a billionaire in the future
+Bot: Was this something recent or has it been building up over time?
+
+[2026-05-23 21:46:24.906182]
+User: it has been building up over time
+Bot: Was this something recent or has it been building up over time?
+
+💡 Advice: You do not need to solve everything at once.
+
+[2026-05-23 21:46:36.049483]
+User: What should i do?
+Bot: Was this something recent or has it been building up over time?
+
+[2026-05-23 21:46:44.167309]
+User: I dont know
+Bot: Do you usually keep these thoughts to yourself?
+
+💡 Advice: A small positive routine can slowly change your mindset.
+
+[2026-05-23 21:46:58.596913]
+User: I feel neutral
+Bot: Sometimes things affect us more quietly than we realize.
+
+💡 Advice: Sometimes resting is productive too.
+
+[2026-05-23 21:47:08.922050]
+User: Should i rest?
+Bot: Sometimes things affect us more quietly than we realize.
+
+[2026-05-23 21:47:20.563624]
+User: i wanna feel loved
+Bot: That’s really good to hear 😊 What do you think contributed to that positive feeling?
+
+[2026-05-23 21:47:32.873745]
+User: i was sad before
+Bot: Sometimes carrying everything alone becomes heavy. What has been on your mind recently?
+
+[2026-05-23 21:47:47.118095]
+User: somebody got killed
+Bot: How have you been coping with all this mentally?
+
+[2026-05-23 21:48:02.555249]
+User: i try not to think about suicide
+Bot: ⚠️ I'm really concerned about what you're saying.
+
+Please reach out to someone you trust or a mental health professional.
+You matter more than you think.
+
+[2026-05-23 22:14:40.462576]
+User: hi
+Bot: Would you say this is stressing you emotionally or mentally?
+
+[2026-05-23 22:15:02.341984]
+User: what are you talking about?
+Bot: What helps you feel calm when days become overwhelming?
+
+💡 Advice: Sometimes resting is productive too.
+
+[2026-05-23 22:15:15.403505]
+User: mentally
+Bot: That sounds deeper than it looks honestly.
+
+💡 Advice: Try getting some fresh air today.
+
+[2026-05-23 22:15:20.510701]
+User: death
+Bot: What do you think your mind needs most right now?
+
+💡 Advice: Sometimes resting is productive too.
+
+[2026-05-23 22:15:27.984954]
+User: die
+Bot: ⚠️ I'm really concerned about what you're saying.
+
+Please reach out to someone you trust or a mental health professional.
+You matter more than you think.
+
+[2026-05-23 22:16:29.869969]
+User: Hi
+Bot: If you could change one thing about that situation, what would it be?
+
+[2026-05-23 22:16:33.070229]
+User: HI
+Bot: Do you feel like people around you understand what you're going through?
+
+[2026-05-23 22:16:42.203926]
+User: Hello
+Bot: What helps you feel calm when days become overwhelming?
