@@ -41,7 +41,7 @@ MindEase AI uses a modern dark-mode interface inspired by futuristic AI assistan
 ```plaintext
 mental_health_chatbot/
 │
-├── tkinter_app.py
+├── main.py
 ├── chatbot_engine.py
 ├── therapist_ai.py
 ├── emotions.py
@@ -80,7 +80,7 @@ pip install -r requirements.txt
 Run the application using:
 
 ```bash
-python tkinter_app.py
+python main.py
 ```
 
 The MindEase AI desktop window should open automatically.
